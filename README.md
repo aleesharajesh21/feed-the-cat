@@ -86,7 +86,7 @@ For Hardware:
 *Explain what the video demonstrates*
 
 # Additional Demos
-[Add any extra demo materials/links]
+link: https://feed-the-cat-eta.vercel.app/
 
 ## Team Contributions
 - [Name 1]: [Specific contributions]
